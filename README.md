@@ -1,2 +1,2 @@
-# ugas-Prak-PBO
+# Tugas-Prak-PBO
 Tugas Pratikum PBO
